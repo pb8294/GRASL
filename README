@@ -1,0 +1,13 @@
+1. simple_network.py (CODE TO TRAIN SIMPLE CNN NETWORK)
+	-	visualize_loss(h) function has been derived from tutorial from Keras
+
+2. vgg16_network.py (CODE TO TRAIN VGG16 FOR TRANSFER LEARNING)
+	-	The transfer learning concept derived from https://github.com/anujshah1003/Transfer-Learning-in-keras---custom-data
+
+
+3. haar_cascade_face_detection.py (ATTEMPT TO DETECT FACE BY HAAR CASCADE)
+	-	Derived from tutorial of haar cascade on Opencv https://docs.opencv.org/3.3.0/d7/d8b/tutorial_py_face_detection.html
+
+4. asl_recognition.py (SEGMENTATION AND ISOLATION OF HAND FROM REST OF THE IMAGE AND TEST OF THE LIVE VIDEO DATA (POST ISOLATION) USING TRAINED NETWORK)
+	-	Face recognition variable instantiation has been implemented as in the tutorial
+	- 	Face detection inside the while loop has been derived from the code in the tutorial https://pypi.org/project/face_recognition/
